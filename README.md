@@ -74,10 +74,4 @@ If you would like to contribute to this project, please fork the repository and 
 
 This project is licensed under the MIT License.
 
-## Contact
 
-For any questions or feedback, please contact [Tejash Bansal] at [tejasjbansal678@gmail.com].
-
----
-
-Feel free to customize the README file to match the specifics of your project and provide any additional details that might be helpful for new developers.
